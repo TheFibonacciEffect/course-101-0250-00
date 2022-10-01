@@ -4,3 +4,4 @@
 slide-notebooks/Manifest.toml
 exercise-notebooks/Manifest.toml
 scripts/Manifest.toml
+tmp*
